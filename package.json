@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/TanatswaS/week-10-challenge#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.1"
   }
 }
